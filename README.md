@@ -40,6 +40,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 </p>
 
+<h2> 🚀 Statistics</h2>
+
 ![Mehmood Khalil's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamwebsurgeon&show_icons=true&theme=ambient_gradient)
 
 
