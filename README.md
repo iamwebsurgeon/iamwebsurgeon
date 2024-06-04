@@ -1,6 +1,9 @@
-## Hi there 👋
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&text=Hi%20there"/>
+</p>
+
+<h2> 🚀 Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
@@ -20,7 +23,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
 
 <!--
 **iamwebsurgeon/iamwebsurgeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
